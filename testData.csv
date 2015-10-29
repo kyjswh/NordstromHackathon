@@ -1,0 +1,5 @@
+,params.button_color,params.button_text,distinctUserCount,userWhoConvertedCount,isControl
+1,#ff0000,Add to Bag,100,20,y
+2,#ff0000,Add to Cart,110,30,n
+3,#00ff00,Add to Bag,120,40,n
+4,#00ff00,Add to Cart,130,50,n
